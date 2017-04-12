@@ -8,8 +8,8 @@ PackageMinder provides badges indicating up-to-dateness of dependencies in svg f
 [![dependencies 80% up-to-date][4]][1]
 [![dependencies 70% up-to-date][5]][1]
 [![dependencies 60% up-to-date][6]][1]
-[![dependencies 50% up-to-date][7][1]
-[![dependencies 40% up-to-date][8][1]
+[![dependencies 50% up-to-date][7]][1]
+[![dependencies 40% up-to-date][8]][1]
 [![dependencies 30% up-to-date][9]][1]
 [![dependencies 20% up-to-date][10]][1]
 [![dependencies 10% up-to-date][11]][1]
@@ -70,5 +70,5 @@ If you signup to PackageMinder, you may also enter multiple repositories to trac
 [13]: https://img.shields.io/badge/dependencies-canary-CC1B12.svg (dependencies has canary release)
 [14]: https://img.shields.io/badge/dependencies-unsupported-CC1B12.svg (dependencies has unsupported release)
 [15]: https://img.shields.io/badge/dependencies-incompatible--license-CC1B12.svg (dependencies has incompatible license)
-[16]: https://img.shields.io/badge/dependencies-broken--missing--license-CC1B12.svg (dependencies has broken/missing)
-[17]: https://img.shields.io/badge/dependencies-missing--license-CC1B12.svg (dependencies is missing)
+[16]: https://img.shields.io/badge/dependencies-broken--missing-CC1B12.svg (dependencies has broken/missing)
+[17]: https://img.shields.io/badge/dependencies-missing-CC1B12.svg (dependencies is missing)
