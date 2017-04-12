@@ -29,7 +29,7 @@ https://packageminder.com/api/report/{host/path+to+project}
 
 PackageMinder peruses links to dependencies on npmjs.com (using https://registry.npmjs.org/express) while first checking for local dependencies first before looking for the package on npm. It uses caching (etag if-not-modified-since) to avoid unnecessary hits requests to npm. 
 
-If you signup to PackageMinder, you may also enter multiple repositories to track and receive alerts when dependencies are out-of-date or experiencing problems that should be resolved in production.
+If you signup to PackageMinder, you may also enter multiple repositories to track and receive alerts (via email or slack) when dependencies are out-of-date or experiencing problems that should be resolved in production.
 
 
 
