@@ -14,11 +14,11 @@ PackageMinder provides badges indicating up-to-dateness of dependencies in svg f
 [![dependencies 20% up-to-date][10]][1]
 [![dependencies 10% up-to-date][11]][1]
 [![dependencies 0% up-to-date][12]][1]
-[![dependencies has canary release][13](https://img.shields.io/badge/dependencies-canary-CC1B12.svg)][1]
-[![dependencies has unsupported release][14](https://img.shields.io/badge/dependencies-unsupported-CC1B12.svg)][1]
-[![dependencies has incompatible license][15](https://img.shields.io/badge/dependencies-incompatible--license-CC1B12.svg)][1]
-[![dependencies has broken/missing][16](https://img.shields.io/badge/dependencies-unsupported-CC1B12.svg)][1]
-[![dependencies missing][17](https://img.shields.io/badge/dependencies-unsupported-CC1B12.svg)][1]
+[![dependencies has canary release][13]][1]
+[![dependencies has unsupported release][14]][1]
+[![dependencies has incompatible license][15]][1]
+[![dependencies has broken/missing][16]][1]
+[![dependencies missing][17]][1]
 
 
 PackageMinder provides an online interface to generate a report (and badge code) using an open-source repository link to a project (branch or tag) with a properly constructed package.json [ example see https://packageminder.com/report/github.com/expressjs/express/tree/4.15.2 ]
